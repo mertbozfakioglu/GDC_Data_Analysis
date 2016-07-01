@@ -1,0 +1,2757 @@
+[
+  {
+    "file_name": "44067d6e-af12-4abf-8795-cb6749b1cc7a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257303, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "6c5154d2-af36-492f-b520-d925528824e4"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ed9fe516-13b7-45d1-8d17-40ca9a96bbd0.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249295, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "b98184b9-6190-4e95-a1cf-8cffb44b9963"
+      }
+    ]
+  }, 
+  {
+    "file_name": "f67cf68d-56b3-451d-ba21-566664213691.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256027, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "5c984433-33cf-42fc-b3ba-511efcdcab19"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "0fa2d3b2-3885-5bf7-8287-e7c3781e1dd2"
+      }
+    ]
+  }, 
+  {
+    "file_name": "8917fe2a-c1bb-440c-8ea5-655504006a63.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255173, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "d73ca945-b60b-4b5c-ac53-7ef2602a4951"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c12052d7-f5ae-4fd5-a36b-ac0ce21179a6.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256227, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "01a92062-967a-4900-8dc7-a5ecd3b3f8e2"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "ea323196-ad9c-54d7-99fa-f8140d550970"
+      }
+    ]
+  }, 
+  {
+    "file_name": "eaff8d68-43f9-48bf-ad8b-8d0f452d3775.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255637, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "884f867b-4a8b-4b67-8fe4-ab3f068be84e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ce3cc39f-d031-4751-a9fc-d9c7b2fb168f.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256829, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "722f462d-f939-4bc1-aae4-8f78b1335a87"
+      }
+    ]
+  }, 
+  {
+    "file_name": "21800024-cf76-4185-b57b-526539ccdba2.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254920, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "6ff96a7e-1b96-4530-b8a8-7f2e9e541955"
+      }
+    ]
+  }, 
+  {
+    "file_name": "1a860864-2ba1-46ad-ad36-018a7b0ec08e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255787, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "521ea765-1bd1-423d-a75d-091243df37a9"
+      }
+    ]
+  }, 
+  {
+    "file_name": "f728fc58-a4b9-4525-971a-a74a7d676695.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257878, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "6c28f086-6a25-40b6-93eb-bba0014acda6"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "86030eb8-0a57-54b1-92b4-b8bce82ca7e5"
+      }
+    ]
+  }, 
+  {
+    "file_name": "bdba7172-5280-41f6-8082-dbf8983c4089.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257125, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "b37d944c-c65c-46d6-bb8b-3eb37cb85b68"
+      }
+    ]
+  }, 
+  {
+    "file_name": "fffc1088-c5a6-46a0-b050-860184f6ded2.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250982, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "7cbabf1d-ec38-4048-ae1c-7d0f3001691b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "afe67ba6-d59f-4450-8fbd-624da67d47e5.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253514, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "28da11ec-f46a-4abc-b4c8-bbb784419c71"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c3f677f7-168a-414b-8006-a9cec7da0994.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251484, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "9d1d9ae5-4640-4060-a207-c9c5b0e905e1"
+      }
+    ]
+  }, 
+  {
+    "file_name": "a5525401-79be-4c7a-9107-71c022778d65.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256468, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "7cada85b-00b1-41e5-9924-e09eb077ad56"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c153c4d8-2005-440d-9249-e8b8f2f73a96.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256928, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "6e72d2e2-96fe-4fbb-9fe6-39ec28753eb6"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c6045584-592e-412f-974a-c8ae2d4bb817.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252725, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "2b82e941-1b16-444e-af41-24dbc0a7e8b5"
+      }
+    ]
+  }, 
+  {
+    "file_name": "b25c8e4d-f6ca-4079-9120-b96147b9091e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 258292, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "c9e4f0bf-48fc-4600-9e03-314bc575273f"
+      }
+    ]
+  }, 
+  {
+    "file_name": "a5461e7c-620e-49c0-b4bf-f9774b9393af.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 258314, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "55a063b0-98ad-4700-b3ce-61bfe364fec8"
+      }
+    ]
+  }, 
+  {
+    "file_name": "bc8b9c8b-d288-436e-9e33-8c31a9575ce7.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 259123, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "a262928c-e20a-4c02-8114-1227e05c43e1"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "b988f39a-83b2-59e8-a5b5-8002dd81a5dc"
+      }
+    ]
+  }, 
+  {
+    "file_name": "04be0c6b-c75f-40cf-82c0-c14af4f9e456.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249613, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "34f216fb-09dc-48af-9e09-7d12cc07c1f7"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ab5f9e4e-ff6a-4353-83f4-5ffddca0050a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255340, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "e876dd29-68b0-4bf1-83d1-488c40068a35"
+      }
+    ]
+  }, 
+  {
+    "file_name": "2a254376-7498-4c41-8c20-8b4bdd8369da.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254407, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "153c2442-ea61-4b5e-8c5c-c71d287c6055"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c341aa36-a431-477a-9fae-4550c4eea047.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257656, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "15e058e8-2f33-4fb4-92af-3d9dea1fa906"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "14a696c7-0960-539d-a0cf-b497c236720e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "37889f67-62a8-483b-97af-d8391806ede9.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255613, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "af055b98-be6a-4012-ac64-f1b6539b23d0"
+      }
+    ]
+  }, 
+  {
+    "file_name": "1142d18f-9cd9-41b4-a9f2-975730cb713a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257639, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "f5bc5d97-e054-4e53-992d-71b896bd97d5"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "1db01a17-8ca7-595d-a5f2-409bd4fcac37"
+      }
+    ]
+  }, 
+  {
+    "file_name": "3fca2c7c-2541-418d-8f45-2a48814ca574.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256373, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "eae44c1c-1628-4b58-8b90-d3372e3577d5"
+      }
+    ]
+  }, 
+  {
+    "file_name": "7f7121ff-1399-40da-a792-b7c31bc76570.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 258509, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "dd76930a-1678-4b70-9864-730534174d41"
+      }
+    ]
+  }, 
+  {
+    "file_name": "effc6b43-7853-4b65-b6a1-265ea15f2846.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257959, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "4c42dc4e-66b7-40bf-9fbe-b92543248198"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "b52340b3-b1c5-5ace-bea2-88cfe7f84723"
+      }
+    ]
+  }, 
+  {
+    "file_name": "e52fefef-84a4-4b1d-91e2-9e9735e19e1f.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256051, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "5613f5f6-086d-470b-8f77-6dcb7f8625b7"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "82c4e0e4-aca5-5794-9bbd-0e5e98f75fdb"
+      }
+    ]
+  }, 
+  {
+    "file_name": "8223f42b-434d-4966-a123-3b8a947884bc.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253385, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "bf339349-062f-4ea9-a0b2-d87d3a21099e"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "f45c2428-c20f-5998-a7b0-420e456c3f9b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "dc3875c2-1a88-491c-bf98-fa344dd3b07e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255258, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "e17a6048-7a72-42c0-ad3f-97cbff02bc9f"
+      }
+    ]
+  }, 
+  {
+    "file_name": "982e2940-10b0-4383-bde8-f7ccb9920fc4.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254890, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "74139255-a635-4c87-814d-3dd04ed630a8"
+      }
+    ]
+  }, 
+  {
+    "file_name": "f47c3aa6-0f0d-4e0d-b6cf-bf565d511d6d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257672, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "752a6e21-9a91-417f-beba-bfdf331d5cac"
+      }
+    ]
+  }, 
+  {
+    "file_name": "eb80bbc4-7186-4872-86df-90629a53ecb1.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 261372, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "9348e446-0e43-4210-b07e-c534980cbf62"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "f316d2b9-a90f-5796-b2d1-b6b1bb411515"
+      }
+    ]
+  }, 
+  {
+    "file_name": "e13a37ca-e668-4315-b156-f4eeb5814c05.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251367, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "7fe37feb-e205-4524-8c98-1f9ac5fe0700"
+      }
+    ]
+  }, 
+  {
+    "file_name": "3462c776-160b-4ffc-9be8-69b08abf9780.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 258648, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "c29d73c0-c885-4105-bf74-38e9178e71c9"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "9fa76b4d-8c47-5379-b641-f68bf02cf2cf"
+      }
+    ]
+  }, 
+  {
+    "file_name": "37897de3-c6da-4f80-bf9d-a36ee2cf5e15.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250852, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "352768f9-3ce1-419c-beef-6515c78f5d7a"
+      }
+    ]
+  }, 
+  {
+    "file_name": "4d4a1165-e304-4aed-9efa-7f6f5bacdb5e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252580, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "47a4161c-9c61-48f5-b9bc-a6d1acad4e5a"
+      }
+    ]
+  }, 
+  {
+    "file_name": "502fc9a8-6409-4b7a-a0f8-abed308ce84a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255698, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "c04657d2-b71b-4402-82fa-02747cce331d"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ddd4c4a7-6057-4244-aa4d-ccffe6e1c95a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253004, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "74139255-a635-4c87-814d-3dd04ed630a8"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "355d91d0-a199-5d7e-9c4c-6ef44bc69ab6"
+      }
+    ]
+  }, 
+  {
+    "file_name": "760c3a6c-809b-4d7e-9ec6-f5b713e8057d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257903, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "8df94420-c736-4a36-b001-5dbe3dff17f0"
+      }
+    ]
+  }, 
+  {
+    "file_name": "47b09db5-8cbf-4385-9178-d943b48ebc53.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 258075, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "bc316a17-9d73-4ef3-97e9-c4ac5516b75a"
+      }
+    ]
+  }, 
+  {
+    "file_name": "02654be6-2049-4000-a0ac-c26f7ba6f0c9.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251911, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "a597bfa8-8c4d-4f8e-9d85-8a9fdc2c56ff"
+      }
+    ]
+  }, 
+  {
+    "file_name": "cbc1bf1c-8ddd-424a-b95a-5ca231d94e63.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256337, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "dfa3ef71-7006-4c6d-81c4-e0c0c7b75c26"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c3d1dc80-eea8-43f8-8436-5bd0ee6a3b07.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254246, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "878584ad-e6b6-493a-9f7f-3e284f5d9f68"
+      }
+    ]
+  }, 
+  {
+    "file_name": "026527d4-007c-4c4e-9bd5-855c44bbe7b0.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255947, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "680b2e96-f00b-4012-8728-b0ec20c50ce0"
+      }
+    ]
+  }, 
+  {
+    "file_name": "681955cd-356d-4e64-924b-b0381e3c12bc.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253514, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "66afd908-0c76-469e-abc3-89563de338c6"
+      }
+    ]
+  }, 
+  {
+    "file_name": "50a6757f-496c-4d2d-9463-f948c09c28f6.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253797, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "9ad6c241-ccc5-4532-a6ac-098271b13b5f"
+      }
+    ]
+  }, 
+  {
+    "file_name": "44ed61ae-e74e-40d7-98ce-7803e040567f.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257426, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "ea82c1da-eada-4108-80ec-77ce891d82a7"
+      }
+    ]
+  }, 
+  {
+    "file_name": "f1f609a2-4fd6-48fc-8a29-3bc39c6ff178.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254179, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "35a7e49e-747b-45ce-9a07-3a5faba0ca94"
+      }
+    ]
+  }, 
+  {
+    "file_name": "57c3b272-7dcb-4937-83c1-02a3694e701f.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251692, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "309005a2-93a8-4566-b8d3-6b9310144266"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "0fea2626-7c93-55b2-93f4-f52f928ff4bf"
+      }
+    ]
+  }, 
+  {
+    "file_name": "6dfd7934-3161-4384-be4d-93b14080ece8.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249453, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "cdfcf14d-ed6c-419f-88f5-e7dee96fcaf6"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "43343b8b-d374-5248-90be-f32b994022ab"
+      }
+    ]
+  }, 
+  {
+    "file_name": "fcc54ed3-5ba9-461f-a3a5-72b8eb89e4da.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256494, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "cf286533-5c8a-40f3-9c69-f46264c7893b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "0e30bd18-8e8b-4c52-aace-b5587c6df51a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249938, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "69d0a566-5fbf-45f6-a240-649b06868e27"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "347d04d2-6be8-5a63-b8d5-a371632d622e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "dfa2ddfb-c161-4c8c-a538-be6e00a8466e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 259405, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "f7ba48c8-46cf-40a9-8826-7e1f67d57171"
+      }
+    ]
+  }, 
+  {
+    "file_name": "e87cfbaa-791e-4a6b-8ec8-28df636e7cdc.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253190, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "cd73f38a-f6ff-4e7b-bd43-ec7b82dbe7df"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "30e86097-e380-5031-9be1-a17b1c120247"
+      }
+    ]
+  }, 
+  {
+    "file_name": "b38a841a-f57e-4170-8cbc-17c54aacd580.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257034, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "350232cb-b9ba-465b-be9a-81afbc6a92e9"
+      }
+    ]
+  }, 
+  {
+    "file_name": "284d5f4a-5b44-42f7-90e6-14a5250183aa.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253384, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "d6de8d1c-e5ff-45cd-b53e-f943d2578713"
+      }
+    ]
+  }, 
+  {
+    "file_name": "7cc30f38-a19e-4552-a5ca-64a11575abed.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255213, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "c184c3ca-7ad3-4202-b108-cb9fd5f5d947"
+      }
+    ]
+  }, 
+  {
+    "file_name": "8880fb74-0849-422e-bfd5-4a38c5a0a906.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253972, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "a2b0094b-8a0c-4505-a1fa-7e1e47d0374d"
+      }
+    ]
+  }, 
+  {
+    "file_name": "0317a370-6a1e-44bd-bfd0-81fd06ec56fb.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251970, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "0078b0c4-68a9-483b-9aab-61156d263213"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "0a034d5f-35b2-5c8c-b0a6-a518d8302013"
+      }
+    ]
+  }, 
+  {
+    "file_name": "37355f52-90e5-43e8-a473-0d3bad45a394.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254842, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "543c0a7d-ccd7-4b8d-98fb-eabec806231d"
+      }
+    ]
+  }, 
+  {
+    "file_name": "b3850d71-3e90-4b9f-9057-55297d8b72bc.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 258357, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "c7b4fd72-b45d-4524-8424-983120abfec0"
+      }
+    ]
+  }, 
+  {
+    "file_name": "01521666-f595-4074-aea1-f7ab78db062b.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256883, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "eddbca7a-d668-4c5d-9843-340d7f18e30e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "fe179a60-5e81-48c1-b437-7c38ed910ba8.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255542, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "de7b7cac-f094-4d59-8651-e991e34ea093"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c3b82e75-c8c5-4dbb-b227-9b54db04b754.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256854, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "2c5fa2d4-8e35-42e4-8bca-9fb3371a19c8"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "e653931b-296b-5b45-9dc7-8564d042c4fe"
+      }
+    ]
+  }, 
+  {
+    "file_name": "6b015617-e989-4c20-b81f-15bf94d83a09.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252139, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "53abce1d-7e33-4ebd-832f-f3789f67377f"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "a9329abb-f803-5c6c-816d-dac19de1975d"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ac22ae42-0d53-4b2e-ad6c-f4c98f9be040.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257479, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "456bcab3-165d-456f-94e3-f34f81a61d2e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "6836d774-e17b-4198-b22a-47d05819b05d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249293, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "c931f3bd-74c5-4ebd-bc0f-c7c6becd25ab"
+      }
+    ]
+  }, 
+  {
+    "file_name": "42959bfe-1a62-465f-aafc-684d973b43f7.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252990, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "30256f61-7be9-4d47-8afd-afafa7a079c0"
+      }
+    ]
+  }, 
+  {
+    "file_name": "89b84c10-956d-4ce6-8837-8d97db837d8c.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252876, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "987cb702-057b-4198-8ef3-9cf6a9c51989"
+      }
+    ]
+  }, 
+  {
+    "file_name": "d90b02f3-4c68-40ec-9704-1d1d6706e402.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256319, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "d1547b99-3c96-4c62-8261-5111bcf860a9"
+      }
+    ]
+  }, 
+  {
+    "file_name": "6a7c7af6-b3b4-44a1-93bb-79a143db53d0.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250951, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "a515cf2d-e918-4958-9bf6-e611b425a97e"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "b9ad4785-a9ad-5a49-a69f-8060ea04179e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ea50d2da-4f84-46dc-8036-c34392793aed.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253421, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "c2f7f72f-13ae-4efc-9cda-69ca037b4498"
+      }
+    ]
+  }, 
+  {
+    "file_name": "b4919075-90a9-4c8a-82a0-a0b5f9944ad3.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254227, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "5c984433-33cf-42fc-b3ba-511efcdcab19"
+      }
+    ]
+  }, 
+  {
+    "file_name": "f6a99d72-7ef2-4c9c-880c-a26bd5fef9c7.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253511, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "5327e899-a20d-4571-8236-98454bad574e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "2fb19a94-bd55-4041-994a-082cd30746f3.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 239789, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "72f88d18-03be-4b51-9f4a-1151521b7292"
+      }
+    ]
+  }, 
+  {
+    "file_name": "95e82e2f-d87e-4785-9e8e-c6b41d8b73f0.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257026, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "f6b2f52b-284d-4bde-9a3d-a0f458d07f08"
+      }
+    ]
+  }, 
+  {
+    "file_name": "1ed5fd9b-a682-4e81-bda1-7ed085f4355d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 244647, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "e0e1b5b3-6e3c-4b79-aa2a-32b320c3e45a"
+      }
+    ]
+  }, 
+  {
+    "file_name": "b0717300-0735-4451-bba1-7ce0fc0d4ac6.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257365, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "314d9188-c8fd-43fc-905d-b6889de542c8"
+      }
+    ]
+  }, 
+  {
+    "file_name": "19f1375f-51f2-4f4c-88fe-6fc84c37e5b6.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255830, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "a2ac9937-f351-4d78-9261-264bf6c21e0c"
+      }
+    ]
+  }, 
+  {
+    "file_name": "9b571cc1-447f-4fa1-b797-bf95c1ee2372.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255151, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "16242ba1-42fd-4fae-bd2e-433b97fc95c6"
+      }
+    ]
+  }, 
+  {
+    "file_name": "820e3299-bd67-4ba8-a637-32d31205e120.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 248659, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "2f61ea6b-a3f2-477f-ab98-47ed07b3b2cd"
+      }
+    ]
+  }, 
+  {
+    "file_name": "06227615-f651-462b-948f-c305ba369efa.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 248669, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "5ef9486a-aeff-421d-b620-03ef119d85a5"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c42fa4ad-4f31-4dfd-b499-599896a57517.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255146, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "4776b959-d5f5-41ad-ab39-dba6031f6884"
+      }
+    ]
+  }, 
+  {
+    "file_name": "76c6e110-9a94-4fcf-a534-a21ba4698f86.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254454, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "66bd4c9e-2ebd-4092-a2b0-69027e8af5b8"
+      }
+    ]
+  }, 
+  {
+    "file_name": "6bdfd682-d5da-403d-b901-9d6fec360d3a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255759, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "66f3c936-272e-4a1e-8567-f609af411329"
+      }
+    ]
+  }, 
+  {
+    "file_name": "2fcb9b43-8a11-4730-b57e-4e9fe9013f1c.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255013, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "43d98306-8b1f-4840-a1a0-146ba0c36400"
+      }
+    ]
+  }, 
+  {
+    "file_name": "21a4485e-a6e0-4129-8148-3d092ebbdd90.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252888, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "1e80ccf6-ef81-4662-bf5e-392f092c1e67"
+      }
+    ]
+  }, 
+  {
+    "file_name": "d638d8cf-7276-49aa-b2f7-81eb10e7b33d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254163, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "3a3fc890-1985-4353-861b-dc3abfb364b1"
+      }
+    ]
+  }, 
+  {
+    "file_name": "95b626ff-eb72-4539-b85b-2dea5a174fc2.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257017, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "f2de4316-026c-4c2d-b091-47bc0ec8612a"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "a74160a6-4bf8-53b9-a5cc-7314ebf19f53"
+      }
+    ]
+  }, 
+  {
+    "file_name": "e9a0fc7b-94ea-477d-918a-1ef80fefefcd.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254314, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "be3a7ef3-34ed-40e1-9d9c-187940596b26"
+      }
+    ]
+  }, 
+  {
+    "file_name": "9c14c8ea-c5c4-42b5-873b-231efb65898a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256326, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "9b9654c9-5a64-4a8e-b1f0-987437e6012e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "3f171964-37b4-43a2-b2f9-1b51dd924a7e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 242377, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "74ce7e7f-e214-4b6e-8551-114a153ab7fb"
+      }
+    ]
+  }, 
+  {
+    "file_name": "020fcc42-97ff-4959-b52f-f7f119c3f643.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256016, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "4644a15f-3115-4f27-86b2-b092419431e1"
+      }
+    ]
+  }, 
+  {
+    "file_name": "fe09042c-c233-4f10-b8ad-d5da80aaf60d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255739, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "e921772f-f81a-49bc-b35e-3354c94447c0"
+      }
+    ]
+  }, 
+  {
+    "file_name": "39701843-3dae-4114-b04c-b3387e402e4f.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 247258, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "bc7a0c8f-c1c1-447c-8019-389e52525081"
+      }
+    ]
+  }, 
+  {
+    "file_name": "a504b1cd-7d40-40e8-8d58-267c680768e5.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 260351, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "bde84ea9-55c9-4d6d-be86-58fd9222c1d6"
+      }
+    ]
+  }, 
+  {
+    "file_name": "844bbccc-8e4e-4c0a-ad29-0aa196f14c26.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255628, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "d6a48eb1-7c20-4ae3-ae35-b6b641238ef1"
+      }
+    ]
+  }, 
+  {
+    "file_name": "63a30223-e2e9-45bc-bc42-c00f9202b493.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252903, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "1d26c6ae-f2fc-49e4-83a4-b79398c3d8f8"
+      }
+    ]
+  }, 
+  {
+    "file_name": "f0f7d061-ace0-4dbd-90ec-df8f5985a7a2.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255546, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "a262928c-e20a-4c02-8114-1227e05c43e1"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "b6dc9edc-9c85-509b-8bd5-0637659364b3"
+      }
+    ]
+  }, 
+  {
+    "file_name": "7c03de7a-fafa-4f25-96bd-dc283674a273.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255706, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "7340f325-579f-4b90-96aa-3a7b362129ca"
+      }
+    ]
+  }, 
+  {
+    "file_name": "0f12d09f-f512-4a6a-95e2-c8942488f2ff.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257195, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "1b25795e-69ad-47fd-bb2f-94ff0910fae1"
+      }
+    ]
+  }, 
+  {
+    "file_name": "419b4c0a-c23f-4214-8de0-722d2ae0846b.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249413, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "0078b0c4-68a9-483b-9aab-61156d263213"
+      }
+    ]
+  }, 
+  {
+    "file_name": "1ede5c59-96ae-486b-ae1f-5f7c7909cf6a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 259234, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "30011f30-2926-47f2-a8f3-4f1b58ffa227"
+      }
+    ]
+  }, 
+  {
+    "file_name": "48a2e1f7-04c0-4013-83b6-fde730168435.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256885, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "8ff9f921-f9e9-41c1-a5d4-891fd4cfe979"
+      }
+    ]
+  }, 
+  {
+    "file_name": "b888bce3-6b9e-494b-b1e8-13714c8b5267.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254017, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "aa7ad106-eadc-489e-83b2-5698652434ea"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c1fdf09e-3960-4aaa-8c49-fe64c6c5bcea.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254599, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "ee3fc631-1e88-4f70-ab31-335851b38640"
+      }
+    ]
+  }, 
+  {
+    "file_name": "2db015e3-bc3d-4884-b306-9283d6799d17.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257350, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "6ccd57e5-9215-46fa-b3be-e408a0f424dc"
+      }
+    ]
+  }, 
+  {
+    "file_name": "746ed118-eb9f-43a5-bcda-872999ae7128.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256959, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "f4fe7c02-be19-4929-8638-960e5776494c"
+      }
+    ]
+  }, 
+  {
+    "file_name": "64718111-dba7-4f49-9f3a-7f2bccc12cda.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255884, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "50603cc6-42e6-412f-ab07-4805f728e6b6"
+      }
+    ]
+  }, 
+  {
+    "file_name": "84aa891c-c73e-48eb-bdbe-5774c2dc3c58.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 248029, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "7338e476-10ff-444a-a16f-429d28355f65"
+      }
+    ]
+  }, 
+  {
+    "file_name": "bdba30ab-5b63-4e14-b203-8a834022db68.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256698, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "d59ffef5-f39b-4627-a7c7-6920b99c2408"
+      }
+    ]
+  }, 
+  {
+    "file_name": "28f0c53a-abdd-4789-adcf-f59132ae3a92.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257842, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "8da3103e-3e6c-4176-a583-d5fe5e60601e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "d6cdbf9a-1009-4ee1-b041-a3744f4166ac.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254425, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "b1c4579c-72fa-4974-830c-b6a81ace45f4"
+      }
+    ]
+  }, 
+  {
+    "file_name": "02d43414-c8c9-42d3-8009-f9fb164dc8e0.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253886, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "f19850cb-50c4-4f3a-ba80-b1464958ffa8"
+      }
+    ]
+  }, 
+  {
+    "file_name": "9c10ea63-f990-4c9b-9149-df9583e59610.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254752, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "3caf009f-d9e0-4c57-b1d9-8eb59fc833bd"
+      }
+    ]
+  }, 
+  {
+    "file_name": "de55dea1-658a-4a84-ae5c-fc554e9c4213.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255455, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "0456a66b-c9b3-4eb1-9872-424a7ea712a2"
+      }
+    ]
+  }, 
+  {
+    "file_name": "4612a611-2ff9-4f51-b4b2-af142254dbe8.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 261014, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "2f4a127f-101a-4192-b3e8-f9be2c8648bc"
+      }
+    ]
+  }, 
+  {
+    "file_name": "cd925805-378c-4070-a7f3-ba8084efd836.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249092, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "98e2f2ec-bdcd-490a-bf45-600e3b6c7491"
+      }
+    ]
+  }, 
+  {
+    "file_name": "4ea9f653-d97f-4e04-ad32-620017803919.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254141, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "737b35e1-d668-4fce-9b6e-76946c7952b6"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "bc78bd01-4e27-5f74-a72d-e90f7a5dd6eb"
+      }
+    ]
+  }, 
+  {
+    "file_name": "d50c9013-3aee-4b1f-be93-225e568da7c3.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256782, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "25fb2523-3f46-45c4-b54d-16aafdeb4904"
+      }
+    ]
+  }, 
+  {
+    "file_name": "e2a01ce0-a2fb-435a-9b05-7758e14d4157.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250931, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "f45f4a30-6b4c-4f15-9140-959d6a25a45f"
+      }
+    ]
+  }, 
+  {
+    "file_name": "21f38c14-7d7c-4156-8c85-88be68cae18d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254887, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "1f48f010-98fe-4b5a-b96a-14fb25eff23f"
+      }
+    ]
+  }, 
+  {
+    "file_name": "cbdf8c09-e3f4-4b3e-bdaa-f4a3a4e40068.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 258770, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "5252c0b7-be05-4c0c-a8ac-afe9ad459489"
+      }
+    ]
+  }, 
+  {
+    "file_name": "6508275a-e712-424e-bdaf-b9e1b07b0f95.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251345, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "edcfac32-adb4-4fe7-86a0-309d3c6430e5"
+      }
+    ]
+  }, 
+  {
+    "file_name": "8b3a593a-2359-476a-a501-e1baaa4873bb.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255571, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "7a650a2c-bc3f-4e0c-820e-4f492977107b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "18fbf794-a85b-4b0d-9a5c-c1c0e0ede3d8.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257301, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "15e058e8-2f33-4fb4-92af-3d9dea1fa906"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "d089304e-6ff8-5a50-8bd8-eb7dd86ed600"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ceb8fbdf-dd36-4273-b17c-0ee2eca493c5.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 241865, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "224235c1-5b6e-48d5-a5d1-777dfede0f1e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "8cb39efc-4bfb-49df-bc48-159d9211bc5a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257086, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "e2e83064-7d1c-4dd5-993f-cc7a5ee228ed"
+      }
+    ]
+  }, 
+  {
+    "file_name": "19680925-a148-4f8a-af3b-9137746d663f.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256245, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "e6e2d4c3-d37c-4de3-ac68-b301800770f0"
+      }
+    ]
+  }, 
+  {
+    "file_name": "b004e38d-f48c-49f9-a027-4a702fbaf107.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 245536, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "22e0c3ea-9f6d-4d73-9282-17ee4553f436"
+      }
+    ]
+  }, 
+  {
+    "file_name": "bd4b6975-90d9-43f8-aadc-344d04644822.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 260800, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "1030a6b9-0df8-4d60-b69f-2a36e630a6ad"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ca0a0a82-4e82-4559-9666-d19faa3edf8f.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257003, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "44ef426e-b67d-4b49-80a3-86681b9abf1a"
+      }
+    ]
+  }, 
+  {
+    "file_name": "378f6079-6c4e-415b-8b5e-6c3c72e513b3.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250746, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "159e0318-6173-440f-be07-8d956086e99d"
+      }
+    ]
+  }, 
+  {
+    "file_name": "a75c6098-ff48-43c2-b56d-6fa448ddebfb.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249402, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "c970240f-03e2-4395-85be-5eb81a69b710"
+      }
+    ]
+  }, 
+  {
+    "file_name": "d44d370d-d86e-4006-9530-ab3442cb2848.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255606, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "a589e2dc-7649-492c-9569-592698acaa6f"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "703fcc70-d17d-5056-9d83-35b8fd478149"
+      }
+    ]
+  }, 
+  {
+    "file_name": "2f7160fe-5f34-49bc-95fd-029ce83d8c42.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254652, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "5a86d9f1-d38d-4b78-9a23-c7855a20ca2d"
+      }
+    ]
+  }, 
+  {
+    "file_name": "8af78255-e426-4a5d-a997-84946f5e459c.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256193, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "e3251837-f6f3-4dad-856f-108e20d03dad"
+      }
+    ]
+  }, 
+  {
+    "file_name": "f2d5627a-f891-453b-8bdb-38d732c59342.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253271, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "149be735-d5db-43b6-80b7-d40e3a84500b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "90629e6e-2e1e-4f31-884a-6bca2c24ce11.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256224, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "de7b7cac-f094-4d59-8651-e991e34ea093"
+      }
+    ]
+  }, 
+  {
+    "file_name": "f5bb4817-1727-41f9-b7f6-3a4e1818c2df.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257025, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "52408d9f-2637-4952-9b90-cb607a860f23"
+      }
+    ]
+  }, 
+  {
+    "file_name": "38195109-056a-4a1f-997e-0f77e20b647b.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252531, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "79a68b32-29a3-47bf-9b2b-643ec7323d73"
+      }
+    ]
+  }, 
+  {
+    "file_name": "d984a0e2-d502-4003-bdbf-a0364d4e5a78.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 258453, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "93ed7a2b-b0cb-4a84-871f-5c34a0b6a640"
+      }
+    ]
+  }, 
+  {
+    "file_name": "270906c7-7a4c-4684-8c48-c4e337f5d9fc.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253586, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "d88b35a3-a291-457a-b15b-a314859b25c5"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "b34f2ab9-2db0-5957-826d-813046230188"
+      }
+    ]
+  }, 
+  {
+    "file_name": "a3e5cda5-f468-48f3-92fa-864b8bbbecdc.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 242971, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "5bbeb8a7-3ac2-4ef1-bd48-6f83bc994a75"
+      }
+    ]
+  }, 
+  {
+    "file_name": "bcbb79d8-1d4a-4fbb-b16c-4df86839773e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252368, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "d558203d-3f70-42d4-accb-008ace280f48"
+      }
+    ]
+  }, 
+  {
+    "file_name": "928160c7-f711-4b23-832c-8c12aea9fe85.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253571, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "8da3103e-3e6c-4176-a583-d5fe5e60601e"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "4b95e468-42b6-50e8-bbe8-6b51107c2e02"
+      }
+    ]
+  }, 
+  {
+    "file_name": "8b4a22e2-e19a-4f8c-9f8f-a19f69fc8cbf.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 245851, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "c34760a2-f70e-48c4-a7c2-eb359f8aeb71"
+      }
+    ]
+  }, 
+  {
+    "file_name": "4befb3ab-b606-4035-a0b0-639032962767.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257054, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "8d2e88d9-d8d0-4c42-8aa2-205a788dea58"
+      }
+    ]
+  }, 
+  {
+    "file_name": "68fe871b-c631-469e-87a2-26130f416446.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255254, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "51c3409d-5df7-4720-83db-0e6de065f82c"
+      }
+    ]
+  }, 
+  {
+    "file_name": "7376f374-1439-405e-87d3-c45cfac92ed5.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256726, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "2188c194-dfe4-4471-9b8b-050db1a1062c"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c904090b-149e-4146-9769-f0d2ff965da9.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254574, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "5c984433-33cf-42fc-b3ba-511efcdcab19"
+      }
+    ]
+  }, 
+  {
+    "file_name": "2afdb646-75ca-4bc9-9c12-30a27f994ecd.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257801, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "872abc8a-6c1f-4114-b993-7d0327fb38bd"
+      }
+    ]
+  }, 
+  {
+    "file_name": "5cb8a505-e571-4faa-ab14-71e7b6a45a89.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255395, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "8e6b9705-e9d2-4fbc-ac03-35c1a5115eef"
+      }
+    ]
+  }, 
+  {
+    "file_name": "da09dd77-0b91-4795-bd80-f90a9784b65c.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253327, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "69d56f2d-6924-409b-9d1e-c8d69b400270"
+      }
+    ]
+  }, 
+  {
+    "file_name": "2556ce90-db5f-4beb-897a-db3cf556e054.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254612, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "da5f6940-e8ee-4fd1-a8da-4cd68e02e59c"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "cb6e1a1b-a932-573e-9a96-6a36be3cf742"
+      }
+    ]
+  }, 
+  {
+    "file_name": "bd7b2c7c-3a38-4a2b-b6eb-5f67572db883.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255881, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "620282f9-f932-4335-9c7d-ece53dcaf7a1"
+      }
+    ]
+  }, 
+  {
+    "file_name": "3d4081b3-24c9-4dbd-a5fe-0fb29ce43737.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 258541, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "0389b35b-651b-4776-b12a-d315a100f47c"
+      }
+    ]
+  }, 
+  {
+    "file_name": "eb24e6f8-dc16-4a6d-b584-9046829cc2ef.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 259484, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "3f960d3b-a58c-43d0-a8a4-f3555b399c9d"
+      }
+    ]
+  }, 
+  {
+    "file_name": "2b421eac-4980-4b9c-bddd-ad0818ec15e6.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253230, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "652a39f0-c539-4303-bedc-f0d7f4669d9f"
+      }
+    ]
+  }, 
+  {
+    "file_name": "f8e7cbd2-b54a-4f30-8fc1-a5c80bfad8b6.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257300, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "054f472f-98cb-4559-b2e2-b5f800fc8eef"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "a352a2b6-22e2-53da-a663-346f2525de40"
+      }
+    ]
+  }, 
+  {
+    "file_name": "600932fb-d31e-4b69-afe7-e3803513d71f.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 246454, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "20bad0d5-3135-49a4-a119-fa7a1e56fd1b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "8a395eef-a9cc-4f21-b8d2-aefa292077cf.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254805, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "25f41de3-9d70-45df-913f-4fb3e5f0f7d6"
+      }
+    ]
+  }, 
+  {
+    "file_name": "2c15cc20-2347-4bfc-826d-a062f6d74b46.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256266, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "ea3b5da2-6a12-400c-bf0f-e442f5ec1132"
+      }
+    ]
+  }, 
+  {
+    "file_name": "30e10839-2ba1-4fd1-82ed-ad8fe4e72794.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256430, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "ca893d12-3d6c-4e6f-b0e7-7f4eb8bb724b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "29f824b7-d899-40c1-b53b-edcb3f8e3d2e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257349, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "4b43da9d-60ee-4269-b44d-d92c034b844c"
+      }
+    ]
+  }, 
+  {
+    "file_name": "456ef025-b7f0-4040-90dd-5bcc2e476bfc.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256058, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "d9fcf27f-48e3-43fd-a8cf-3db246cf4221"
+      }
+    ]
+  }, 
+  {
+    "file_name": "adce8dd4-e2df-43ed-9821-3781ddb7a82f.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255072, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "46bfebf4-0ef6-4348-81dc-d7d3cb52c08f"
+      }
+    ]
+  }, 
+  {
+    "file_name": "53d78258-1650-4793-a01d-d2c065215fb9.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250494, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "a2338b30-f511-4163-af3b-1e4a40ff00e1"
+      }
+    ]
+  }, 
+  {
+    "file_name": "742b41f9-faca-4bad-a2a5-5d40b8bf06ce.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254730, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "ba383ea6-c885-49f0-bddc-e00be0230a6b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c8460566-8199-4a4d-93fd-67692611992d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254622, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "a28b256e-e085-467d-bdba-5c39718012d7"
+      }
+    ]
+  }, 
+  {
+    "file_name": "bcdc68db-c874-4097-9c46-b06e331caaf5.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 257382, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-GBM"
+        }, 
+        "case_id": "386b629e-fab1-4033-b088-45d6eeb4a13e"
+      }
+    ]
+  }
+]

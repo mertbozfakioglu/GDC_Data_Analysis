@@ -1,0 +1,1317 @@
+[
+  {
+    "file_name": "02af2ffc-77c4-4a02-91aa-01f1cddc8f20.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254484, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "eb5a5b41-b493-408c-902e-c625f5ba7d2f"
+      }
+    ]
+  }, 
+  {
+    "file_name": "94e825e0-ba6b-4d41-9ad5-9745e96491cd.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 246302, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "97408569-ef36-46d6-941a-aca9e0ab297e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c6fa3895-31c8-49e1-85c0-b8980f447967.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251926, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "ef8b1e2c-9623-44fe-b591-8c8e6a232da5"
+      }
+    ]
+  }, 
+  {
+    "file_name": "e7573c6b-fe5b-4a9e-9c7f-15884543e7f8.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252236, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "28c6d24e-be1e-484d-948d-55ea51bd8ec0"
+      }
+    ]
+  }, 
+  {
+    "file_name": "f5325773-29e9-403c-874d-429a78360c6e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249733, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "98889636-e53c-44df-951e-01a70033e754"
+      }
+    ]
+  }, 
+  {
+    "file_name": "437d0ef5-7174-42fd-9b3d-aa611ee7af7a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251201, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "caa9b7d9-e900-4e18-a5f0-6dd4c202b40c"
+      }
+    ]
+  }, 
+  {
+    "file_name": "d4867e8b-04bc-460d-8437-a1ac3a5ab374.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251028, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "d3a6accc-5c45-4e70-baf5-2188af53e0db"
+      }
+    ]
+  }, 
+  {
+    "file_name": "1d0993f1-3b40-4005-b907-1a7aa5f0dd31.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255637, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "f235c37f-ce8d-42ea-9b3f-065fc7e0c8b8"
+      }
+    ]
+  }, 
+  {
+    "file_name": "16fceb66-d513-4eaa-b7f8-7a2d03aeb4b0.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255791, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "99826daa-eb83-40ba-950d-0bb7084d960d"
+      }
+    ]
+  }, 
+  {
+    "file_name": "b6313ce4-0056-4e0a-8339-0001dd7c1da2.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253693, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "c61937ab-01ff-42e5-a534-3b33d6a9f582"
+      }
+    ]
+  }, 
+  {
+    "file_name": "879937bd-c6f8-4bca-a467-e09d21cee6bb.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 246515, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "4d9f1899-4a41-4e57-bdad-b12eb0d47629"
+      }
+    ]
+  }, 
+  {
+    "file_name": "61f9864c-ebb0-4ce5-86fa-6dc394101af9.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 247733, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "e90bfe17-2e5b-47ed-b986-b3d4181f2bf6"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "32899629-7b35-5c77-b4e3-8d6aad3928e2"
+      }
+    ]
+  }, 
+  {
+    "file_name": "68a26147-3686-4e65-8eb4-9179b5bc0e57.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254148, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "ebe927e6-0a7e-4c97-ad73-f3c302cca7bc"
+      }
+    ]
+  }, 
+  {
+    "file_name": "9fa6189c-26cd-41b2-9970-3fb612154e34.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 248362, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "880befcf-2bb1-4d37-b65b-5f2970bfb18b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "669cf617-2080-408a-b530-f899d26c694d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 245871, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "bbabcd40-0a6c-430f-8325-ee1ed1d08afa"
+      }
+    ]
+  }, 
+  {
+    "file_name": "b0510082-734f-4d9d-b72a-2fc9d849e874.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 247876, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "74f63637-cc7c-4539-a57e-783c8f62fb95"
+      }
+    ]
+  }, 
+  {
+    "file_name": "e4219d11-ce3d-4513-9ccc-c726fbe7cc7e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252924, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "1f91f13c-bc22-4a5b-9c8f-54782d3909a0"
+      }
+    ]
+  }, 
+  {
+    "file_name": "3609e1bc-c1ed-4569-8b06-5c057e360ab6.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251361, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "3d8b4046-822a-4a00-b79e-393bd3f5f5b5"
+      }
+    ]
+  }, 
+  {
+    "file_name": "76513ac2-b3cb-419b-9634-e595703051f3.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 247903, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "83b97927-a1be-441a-97a1-4363e1f2d530"
+      }
+    ]
+  }, 
+  {
+    "file_name": "cdc13c70-8016-40ce-b5de-df3cf5cd2f2b.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253332, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "d4d3c554-bab2-47e7-a1c8-8890db28abf8"
+      }
+    ]
+  }, 
+  {
+    "file_name": "9cc4243f-1ab8-4fea-9285-c8c73dbb4928.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252462, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "54d21956-25e4-42df-adbe-6907721fc4b5"
+      }
+    ]
+  }, 
+  {
+    "file_name": "db419009-484f-4d09-84b1-8a9908b45198.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253054, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "2d2d8421-18a7-4822-ba37-69fbf48da225"
+      }
+    ]
+  }, 
+  {
+    "file_name": "40f5a19e-e5c5-454c-9230-369ac11e5fcc.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250538, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "340fef21-55d8-433f-b00a-51276b849356"
+      }
+    ]
+  }, 
+  {
+    "file_name": "22edd5b8-2712-4702-80c2-8f030dbf29eb.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 256251, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "9ad7575d-2ad4-4fda-8176-55145396f04a"
+      }
+    ]
+  }, 
+  {
+    "file_name": "e69d844d-2473-4587-9f83-e736ad6cb225.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253313, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "c739fd61-22b2-412d-bcf3-89bda45a2c0f"
+      }
+    ]
+  }, 
+  {
+    "file_name": "1a3a9d02-12ea-4ab9-9cb8-e333ad51bfb5.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250937, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "7d93f1b4-3460-4917-9f33-2a9c6df773f2"
+      }
+    ]
+  }, 
+  {
+    "file_name": "3016482b-edb1-4dbe-90f6-b3992704ee1d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252482, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "f15667dc-8376-40b6-84b2-8f5370c3d66a"
+      }
+    ]
+  }, 
+  {
+    "file_name": "00b50a25-16d4-4193-8916-fb30ef1d5089.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250760, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "1c848577-c3a4-4830-abfa-549992172396"
+      }
+    ]
+  }, 
+  {
+    "file_name": "6f02275d-5666-4fee-aa0e-3d764cb34277.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253741, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "2dd1ecd8-a8d8-4a6a-8cf2-e847557ab04c"
+      }
+    ]
+  }, 
+  {
+    "file_name": "a29d63e7-5f54-4ca2-8f4b-730e85dafbcf.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255355, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "f8970455-bfb2-4b1d-ab71-3c5d619898ad"
+      }
+    ]
+  }, 
+  {
+    "file_name": "65fa027a-3a47-457f-a0e9-b16a233100f0.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251199, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "2b715eb2-055e-4bc5-bc98-128e8bf6954f"
+      }
+    ]
+  }, 
+  {
+    "file_name": "7e138abf-5768-4106-a2fa-50ac0034f550.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252598, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "0c5ae0f7-b2ac-4b1b-aabb-83994ebb9326"
+      }
+    ]
+  }, 
+  {
+    "file_name": "24d511d7-d50c-4ef0-acb0-d8756fbdf85a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253515, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "827d74a2-0331-434c-aef6-2d15b634ccb8"
+      }
+    ]
+  }, 
+  {
+    "file_name": "3751b9c6-446b-4510-bb43-437ba4ffdc2e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 244357, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "c5ad9aef-27c6-4101-befb-6227cd1266ba"
+      }
+    ]
+  }, 
+  {
+    "file_name": "e53c938c-800b-414d-a70c-957f230b3b53.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251876, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "a20fb646-2a9e-42ac-a2cc-ff3d6a0625fa"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "65f590fe-dda1-52af-bf6a-20bef595806e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "79661e40-895e-416e-a614-d17689ba081c.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251794, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "b100c424-90c6-4e16-9d9e-40ad38606b5d"
+      }
+    ]
+  }, 
+  {
+    "file_name": "4838a2de-7858-4ad3-bb68-8ceda8220c78.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253270, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "e656cf38-2f5d-4306-90d9-ecb504d86351"
+      }
+    ]
+  }, 
+  {
+    "file_name": "c720a657-d04a-4a7a-8a26-293048d56b2d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 248557, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "3210027d-a9c7-4ebb-8497-e3705bed7e40"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ac3945f5-d50b-45ac-9592-7ce9a8976e55.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251791, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "5a197d56-e835-4f96-ad85-04ae9f6aff32"
+      }
+    ]
+  }, 
+  {
+    "file_name": "dc91834c-347b-4e02-afe5-480d4d7f40e7.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253632, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "e23bc730-b369-4d6a-90ce-7223e234cd4d"
+      }
+    ]
+  }, 
+  {
+    "file_name": "17b38d44-cf29-495e-b145-68959926b3d9.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249422, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "c5d4d4b4-2c9e-4865-8860-68327356d461"
+      }
+    ]
+  }, 
+  {
+    "file_name": "a2ba0d76-73ce-468a-8130-5915f2537c3d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254453, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "af5bde54-d20c-41a1-9537-69aed5562f08"
+      }
+    ]
+  }, 
+  {
+    "file_name": "da1c29c8-a1df-4f08-b685-36c4f308298b.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250465, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "cb245767-f9d2-4cca-95f0-f3d247c05f01"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "75dd1d21-b1eb-55de-b078-4f2a7c2caf77"
+      }
+    ]
+  }, 
+  {
+    "file_name": "f97de4a4-485e-47ac-9cf2-6201206b383a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250122, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "676ea428-80ef-4371-b90b-95e46708278c"
+      }
+    ]
+  }, 
+  {
+    "file_name": "18497657-de2e-4cec-86eb-bbfc74ae1f36.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255993, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "e4469259-2504-4987-88a4-02cae33f46f2"
+      }
+    ]
+  }, 
+  {
+    "file_name": "229af764-31b6-4e75-9b6f-57a2c37f3c03.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251471, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "b106d71c-7809-4efa-a969-ee1f93a44720"
+      }
+    ]
+  }, 
+  {
+    "file_name": "669d490b-2d91-4c64-a45b-7eb82d68dd31.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253586, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "e93761b9-e0a2-48d5-8b21-a6670021cae4"
+      }
+    ]
+  }, 
+  {
+    "file_name": "a5a7ed23-d7e1-41c7-a821-c8710e49396a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252660, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "8ba34bcc-daad-4d69-9f02-e6a1c18de68b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "5da3d163-55d7-4310-bccb-e26e26848318.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249265, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "0c8bd0eb-9c26-4fb0-a365-26354129f0da"
+      }
+    ]
+  }, 
+  {
+    "file_name": "02873698-0583-4ade-ad3c-1085da6b579a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252175, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "2b740646-7cd4-4c7f-890a-7b3db6ebc1b8"
+      }
+    ]
+  }, 
+  {
+    "file_name": "9211c8c3-c601-4dc8-99a1-76b20cbd4d0f.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250343, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "00397ce0-a931-46dd-9407-c1c6a14c39f1"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ebe5dd61-df1f-43a1-b85f-24ce0d8c0d02.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250608, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "d940e476-fb0a-4cc3-8ab5-691156e7c09b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "8db3b509-4044-4383-b1da-a4fca9742d8e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255265, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "ccf7073e-b224-497a-a476-c67aff5226bd"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ef0110e7-7945-4978-a6eb-33348d9d6ad5.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 248371, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "7a92421e-4860-41c7-afd2-fa715357f023"
+      }
+    ]
+  }, 
+  {
+    "file_name": "de8e600f-5b70-4b1e-a924-dd8397216050.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249062, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "554f4424-bb94-4958-a316-6d7d4eb4181b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "af995b92-6e87-480b-9d1e-4363ce7013a4.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253315, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "a3c28058-d305-4f85-b42b-a221e5234ec8"
+      }
+    ]
+  }, 
+  {
+    "file_name": "59c0ac33-df0f-44d5-8cbe-9fe90c82b9d9.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250022, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "e0df1fef-c650-4088-a974-26f712ed4f64"
+      }
+    ]
+  }, 
+  {
+    "file_name": "86d7188b-2d97-4dca-b033-34778e5a6aa1.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255246, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "92c1f122-2f48-47a7-b3b8-c1792a1f4f32"
+      }
+    ]
+  }, 
+  {
+    "file_name": "282cf2a6-0463-479e-986f-1d0527769aed.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252520, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "10981cf9-c8e6-48c0-bc34-f06db6e1ac28"
+      }
+    ]
+  }, 
+  {
+    "file_name": "4d635366-fe99-4282-8bbd-18ba0bac8a17.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249781, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "c9c7366b-8826-4bd2-a3dc-5883e34c1502"
+      }
+    ]
+  }, 
+  {
+    "file_name": "b920074c-fc7e-4f06-a1a4-311931e203c9.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252144, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "e6633347-a907-4a6c-9343-a207fdb05169"
+      }
+    ]
+  }, 
+  {
+    "file_name": "e699af97-3c12-4b1a-a166-d4ebbe67fd6c.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 252406, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "de7c2f09-b840-4071-a1f1-558d1fb28576"
+      }
+    ]
+  }, 
+  {
+    "file_name": "4e673a0f-9c9c-4927-8787-068ce9e0ff69.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253555, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "77c64e5d-da34-467a-a8d3-c79060700e4f"
+      }
+    ]
+  }, 
+  {
+    "file_name": "df8882d4-891a-49de-86e6-befb21f151f2.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250454, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "c9ce1f62-2df1-4974-868b-d075781ce282"
+      }
+    ]
+  }, 
+  {
+    "file_name": "82c9a91b-da87-45bd-97bd-e27145f5112c.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250135, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "aaace369-0a47-4176-811b-61cd42bf647f"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "f079bf5a-00e9-5b63-8ccb-4506f7f4cc74"
+      }
+    ]
+  }, 
+  {
+    "file_name": "d99b31a9-b312-4b8f-8d35-aa1c327cb679.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253964, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "36606c1f-9a12-465a-a2d9-2491fdc54a88"
+      }
+    ]
+  }, 
+  {
+    "file_name": "65e649e9-860f-466a-8ebd-7cc5b4d332fb.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 248683, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "f544c652-8ee2-4bfe-a42c-41ab4b3697d1"
+      }
+    ]
+  }, 
+  {
+    "file_name": "5cdf654d-a0b1-46cf-a469-a6891dd32dd7.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 254924, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "b1f27fa2-133c-42c0-b69e-815af67e2a7e"
+      }
+    ]
+  }, 
+  {
+    "file_name": "ffb2f6bc-c191-4be5-8410-3ea17b29bad8.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250278, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "0c7b4b9c-d497-41fc-a2b9-014bb5e07985"
+      }
+    ]
+  }, 
+  {
+    "file_name": "d84fb9b3-213e-49df-9f6d-a1bc076a071a.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250376, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "a61ea4c7-2506-4d56-aeb5-edf83199d421"
+      }
+    ]
+  }, 
+  {
+    "file_name": "4372494c-5b1d-484e-9269-8940710e6e12.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 249152, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "ca9031aa-87e5-4d5b-a526-3615efac3077"
+      }
+    ]
+  }, 
+  {
+    "file_name": "af846af8-f765-4d5d-9320-21ff33b65a2e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251505, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "0ac27bc8-346e-4006-a701-d9676fb91cb7"
+      }
+    ]
+  }, 
+  {
+    "file_name": "59dc2073-de4b-48e2-955c-45ab03d6d786.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251732, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "04a1f2dc-1b1a-4328-b35d-cdc1b99e7b5b"
+      }
+    ]
+  }, 
+  {
+    "file_name": "81244cb3-98b9-47ea-ba66-6026e2ddc22e.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 247708, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "dc6720dd-5028-49d3-8508-a7936e7b3faa"
+      }
+    ]
+  }, 
+  {
+    "file_name": "664ebf1f-f8be-48dd-995c-bea81982b6a7.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253485, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "24ea3cd5-c2e6-44f7-9658-78af7befeef7"
+      }
+    ]
+  }, 
+  {
+    "file_name": "821e42cc-d1b9-48e1-959d-9df561c4aeb5.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250213, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "6821f2b2-1b21-4046-b7d6-8979fe36add6"
+      }
+    ]
+  }, 
+  {
+    "file_name": "eac8bafb-140e-4f11-bd75-2fbc84a83eb8.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255869, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "894b5569-4e33-4e8d-a70c-63dd4c74c3cf"
+      }
+    ]
+  }, 
+  {
+    "file_name": "af5ff8ac-1442-4a82-90be-21a78fdb1044.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 255855, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "e9c61bd8-8e3b-4e2d-b878-1ef285fc6292"
+      }
+    ]
+  }, 
+  {
+    "file_name": "b112ed03-b7f1-4cb7-8ab5-f1a454f3085d.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251634, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "500b86b2-3ac3-4745-af84-3dd28f38daeb"
+      }
+    ]
+  }, 
+  {
+    "file_name": "0a081c33-5a2f-4fa8-a365-833f29f0e815.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 246296, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "cb94a8ae-2b0c-4d0b-ada3-4c82dd765567"
+      }
+    ]
+  }, 
+  {
+    "file_name": "cae85d5b-9453-48b9-b1d3-3f64d921fabd.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250961, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "0ab19ae8-c095-48d6-b1aa-0f5ae75c6e68"
+      }
+    ]
+  }, 
+  {
+    "file_name": "1afc81dd-cbac-439f-a65e-2ccd07516812.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 251965, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "2b3b0ca8-14c6-493e-921a-cd43ba7d080a"
+      }
+    ]
+  }, 
+  {
+    "file_name": "df411e1f-9939-4283-be44-643cc99a9568.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 250608, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "50921ca1-5d70-4162-8847-74e874114284"
+      }
+    ]
+  }, 
+  {
+    "file_name": "a2775f55-9d68-4497-9c6f-508e44ea47ef.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 247278, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "e611ee05-92c8-41d6-a052-18dd749f8779"
+      }
+    ]
+  }, 
+  {
+    "file_name": "321d315b-d07e-4123-97e8-8bf526d20a27.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253634, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "a48996be-7dae-451a-8129-9de8dfe7221a"
+      }
+    ], 
+    "annotations": [
+      {
+        "annotation_id": "410fb727-fc1a-54a9-963c-51c0560659a2"
+      }
+    ]
+  }, 
+  {
+    "file_name": "6e2c0764-4e1b-4816-9d9a-aa536153beff.htseq.counts.gz", 
+    "data_format": "TXT", 
+    "access": "open", 
+    "data_category": "Transcriptome Profiling", 
+    "file_size": 253333, 
+    "cases": [
+      {
+        "project": {
+          "project_id": "TCGA-MESO"
+        }, 
+        "case_id": "c328f661-c109-4e01-b819-299a75bd4348"
+      }
+    ]
+  }
+]
